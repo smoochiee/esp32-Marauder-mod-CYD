@@ -57,5 +57,21 @@ if you want to learn how to port marauder to your cyd devices go to [Marauder tu
 
 
 
+# MODDING MARAUDER ICONS 
+to be edited
+
+
+
+
+## DONATION
+**If you like you can donate to MY PAYPAL ACCOUNT :**
+
+
+[PAYPAL](https://paypal.me/smoochieelee?country.x=PH&locale.x=en_US)
+or
+[GCASH](https://github.com/smoochiee/Ble-jammer/blob/main/GCash-MyQR-16032024181536.PNG.jpg)
+
+
+
 
 
